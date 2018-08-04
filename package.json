@@ -1,0 +1,11 @@
+{
+  "name": "TBPM",
+  "description": "The best manager",
+  "repository": "https://github.com/ikaraman/TBPM.git",
+  "author": "Ivan Karaman",
+  "license": "UNLICENSED",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
