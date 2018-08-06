@@ -6,6 +6,8 @@
   "license": "UNLICENSED",
   "version": "0.0.1",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
   }
 }
